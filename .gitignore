@@ -1,0 +1,7 @@
+*.exe
+*.vscode
+env/
+venv/
+.venv/
+testing.ahk
+AHK Output EXEs/
